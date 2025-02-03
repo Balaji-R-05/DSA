@@ -1,3 +1,5 @@
+# 3151. Special Array 1
+
 class Solution:
     def isArraySpecial(self, nums: list[int]) -> bool:
         if len(nums)==1:

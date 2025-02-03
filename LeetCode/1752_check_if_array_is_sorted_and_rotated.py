@@ -1,3 +1,5 @@
+# 1752. Check if array is Rotated and Sorted
+
 class Solution:
     def check(self, nums: list[int]) -> bool:
         nums_length = len(nums)
