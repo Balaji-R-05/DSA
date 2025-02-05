@@ -12,5 +12,8 @@ class Solution:
     
 solution = Solution()
 
+# Time complexity: O(n)
+# Space complexity: O(n)
+
 print(solution.removeStars("leet**cod*e"))
 print(solution.removeStars("erase*****"))

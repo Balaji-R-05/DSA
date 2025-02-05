@@ -14,7 +14,10 @@ class Solution:
             else:
                 return False
         return stk==[]
-    
+
+# Time complexity: O(n)
+# Space complexity: O(n)
+
 solution = Solution()
 
 s = "()"

@@ -10,6 +10,9 @@ class Solution:
             hashmap[nums[i]] = i
         return []
 
+# Time complexity: O(n)
+# Space complexity: O(n)
+
 # Test cases
 solution = Solution()
 

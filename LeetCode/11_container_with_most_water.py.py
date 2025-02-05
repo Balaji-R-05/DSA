@@ -14,7 +14,10 @@ class Solution:
                 right-=1
 
         return maxWater
-    
+
+# Time complexity: O(n)
+# Space complexity: O(1)    
+ 
 solution = Solution()
 print(solution.maxArea([1,8,6,2,5,4,8,3,7]))
 print(solution.maxArea([1,1]))

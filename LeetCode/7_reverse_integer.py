@@ -12,6 +12,9 @@ class Solution:
             return 0
         return -rnum if negative else rnum
     
+# Time complexity: O(log(x))
+# Space complexity: O(1)
+
 solution = Solution()
 print(solution.reverse(123))
 print(solution.reverse(-123))

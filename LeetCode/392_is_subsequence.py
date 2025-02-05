@@ -13,7 +13,10 @@ class Solution:
             j+=1
         
         return i==len(s)
-    
+
+# Time complexity: O(n)
+# Space complexity: O(1)
+
 Solution = Solution()
 print(Solution.isSubsequence("abc","ahbgdc"))
 print(Solution.isSubsequence("axc","ahbgdc"))

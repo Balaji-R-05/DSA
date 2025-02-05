@@ -14,6 +14,9 @@ class Solution:
 
         return max(max_sum, curr_sum)  
     
+# Time complexity: O(n)
+# Space complexity: O(1)
+
 solution = Solution()
 print(solution.maxAscendingSum([10, 20, 30, 5, 10, 50]))  # 65
 print(solution.maxAscendingSum([10, 20, 30, 40, 50]))  # 150

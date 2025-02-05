@@ -11,6 +11,9 @@ class Solution:
                 i += 1
         return "".join(ans)
     
+# Time complexity: O(n)
+# Space complexity: O(n)
+
 solution = Solution()
 s = "10#11#12" # "jkab"
 print(solution.freqAlphabets(s))

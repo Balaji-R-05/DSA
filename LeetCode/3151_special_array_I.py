@@ -10,6 +10,9 @@ class Solution:
                 return False
         return True
     
+# Time complexity: O(n)
+# Space complexity: O(1)
+
 solution = Solution()
 nums = [1,2,3,4,5]
 print(solution.isArraySpecial(nums)) # Output: False

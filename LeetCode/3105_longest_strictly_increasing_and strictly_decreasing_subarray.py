@@ -15,6 +15,9 @@ class Solution:
             max_length = max(max_length, inc_length, dec_length)
         return max_length
     
+# Time complexity: O(n)
+# Space complexity: O(1)
+
 solution = Solution()
 print(solution.longestMonotonicSubarray(nums = [1,4,3,3,2]))
 print(solution.longestMonotonicSubarray(nums = [3,3,3,3,3]))

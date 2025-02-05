@@ -14,6 +14,9 @@ class Solution:
 
         return flips
     
+# Time complexity: O(n)
+# Space complexity: O(1)
+
 solution = Solution()
 print(solution.minBitFlips(start = 10, goal = 7))
 print(solution.minBitFlips(start = 3, goal = 4))

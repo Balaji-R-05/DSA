@@ -5,7 +5,10 @@ class Solution:
             count += n&1
             n>>=1
         return count==1
-    
+
+# Time complexity: O(log(n))
+# Space complexity: O(1)
+
 solution = Solution()
 print(solution.isPowerOfTwo(n = 16))
 

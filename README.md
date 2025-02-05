@@ -8,9 +8,11 @@
 - **20. Valid Parentheses**
 - **43. Multiply Strings**
 - **231. Power Of Two**
+- **236. Ugly Number**
 - **392. Is Subsequence**
 - **605. Can Place Flowers**
 - **896. Monotonic Array**
+- **994. Rotting Oranges**
 - **1309. Decrypt String from Alphabet to Integer Mapping**
 - **1752. Check if array is Rotated and Sorted**
 - **1790. Check if One String Swap Can Make Strings Equal**

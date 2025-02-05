@@ -12,7 +12,10 @@ class Solution:
             else:
                 i+=1
         return n<=0
-    
+
+# Time complexity: O(n)
+# Space complexity: O(1)
+ 
 solution = Solution()
 print(solution.canPlaceFlowers(flowerbed=[1,0,0,0,1], n = 1))
 print(solution.canPlaceFlowers(flowerbed = [1,0,0,0,1], n = 2))
