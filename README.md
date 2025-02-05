@@ -4,9 +4,12 @@
 
 - **1. Two Sum**
 - **7. Reverse Integer**
+- **9. Palindrome Number**
 - **11. Container With Most Water**
+- **13. Roman To Integer**
 - **20. Valid Parentheses**
 - **43. Multiply Strings**
+- **53. Maximum Subarray**
 - **231. Power Of Two**
 - **236. Ugly Number**
 - **392. Is Subsequence**
