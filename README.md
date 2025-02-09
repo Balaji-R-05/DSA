@@ -1,7 +1,6 @@
 # DSA
 
 ## LeetCode
-
 - **1. Two Sum**
 - **4. Median of Two Sorted Arrays**
 - **7. Reverse Integer**
@@ -9,6 +8,7 @@
 - **11. Container With Most Water**
 - **13. Roman To Integer**
 - **20. Valid Parentheses**
+- **42. Trapping Rain Water**
 - **43. Multiply Strings**
 - **53. Maximum Subarray**
 - **136. Single Number**
@@ -28,8 +28,8 @@
 - **3105. Longest Strictly Increasing or Strictly Decreasing Subarray**
 - **3151. Special Array 1**
 
-## GeeksforGeeks
-
-### Arrays
-- **Leaders In An Array**
-- **Sort an array of 0s, 1s and 2s**
+## GeeksforGeeks 160
+- **1. Second Largest Element in an Array**
+- **2. Move All Zeros to end of Array**
+- **3. Reverse Array**
+- **4. Rotate Array**

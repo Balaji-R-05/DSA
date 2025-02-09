@@ -1,6 +1,6 @@
 // 42. Trapping Rain Water
 
-class Solution_42 {
+class Solution {
     public int trap(int[] height) {
         int vol = 0;
         int i = 0, j = height.length - 1;
