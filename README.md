@@ -33,3 +33,4 @@
 - **2. Move All Zeros to end of Array**
 - **3. Reverse Array**
 - **4. Rotate Array**
+- **16. Anagram**
