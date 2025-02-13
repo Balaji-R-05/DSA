@@ -14,6 +14,7 @@
 - **136. Single Number**
 - **231. Power Of Two**
 - **236. Ugly Number**
+- **343. Integer Break**
 - **392. Is Subsequence**
 - **605. Can Place Flowers**
 - **896. Monotonic Array**
