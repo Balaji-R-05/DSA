@@ -2,12 +2,15 @@
 
 - **7. Reverse Integer**
 - **9. Palindrome Number**
+- **11. Container With Most Water**
+- **53. Maximum Subarray**
 - **94. Binary Tree Inorder Traversal**
 - **121. Best Time to Buy and Sell Stock**
 - **136. Single Number**
 - **144. Binary Tree Preorder Traversal**
 - **145. Binary Tree Postorder Traversal**
 - **169. Majority Element**
+- **189. Rotate Array**
 - **191. Number of 1 Bits**
 - **231. Power of Two**
 - **263. Ugly Number**
