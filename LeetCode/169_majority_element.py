@@ -12,7 +12,7 @@ class Solution:
 # Time complexity: O(n)
 # Space complexity: O(1)
 
-# Boyer-Moore Voting Algorithm
+# Approach -> Boyer-Moore Voting Algorithm
 
 # The algorithm maintains a count and a candidate for the majority element.
 # Initially, the count is 0 and the candidate is None.

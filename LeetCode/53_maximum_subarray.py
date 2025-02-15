@@ -16,6 +16,15 @@ class Solution:
 # Time complexity: O(n)
 # Space complexity: O(1)
 
+# Approach - Kadane's Algorithm
+# 1. Initialize max with negative infinity and sumOfArray with 0.
+# 2. Iterate through the array.
+# 3. Add the current element to sumOfArray.
+# 4. If sumOfArray is greater than max, update max.
+# 5. If sumOfArray is less than 0, reset sumOfArray to 0.
+# 6. Return max.
+
+
 # Test cases
 s = Solution()
 print(s.maxSubArray([-2,1,-3,4,-1,2,1,-5,4])) # 6

@@ -14,8 +14,12 @@
 - **191. Number of 1 Bits**
 - **231. Power of Two**
 - **263. Ugly Number**
+- **345. Reverse Vowels of a String**
+- **389. Find the Difference**
 - **392. Is Subsequence**
+- **412. Fizz Buzz**
 - **896. Monotonic Array**
 - **2390. Removing Stars From a String**
 - **3105. Longest Strictly Increasing or Strictly Decreasing Subarray**
 - **3151. Special Array I**
+- **3442. Maximum Difference Between Even and Odd Frequency I**
