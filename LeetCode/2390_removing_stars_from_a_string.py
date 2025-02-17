@@ -15,5 +15,9 @@ solution = Solution()
 # Time complexity: O(n)
 # Space complexity: O(n)
 
-print(solution.removeStars("leet**cod*e"))
-print(solution.removeStars("erase*****"))
+print(solution.removeStars("leet**cod*e")) # lecoe
+print(solution.removeStars("erase*****")) #
+
+# Note: 
+# The input will be generated such that the operation is always possible.
+# It can be shown that the resulting string will always be unique.

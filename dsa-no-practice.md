@@ -1,25 +1,14 @@
 # DSA No-Practice
 
-- **7. Reverse Integer**
+# LeetCode
+
 - **9. Palindrome Number**
-- **11. Container With Most Water**
-- **53. Maximum Subarray**
-- **94. Binary Tree Inorder Traversal**
-- **121. Best Time to Buy and Sell Stock**
+- **104. Maximum Depth of Binary Tree**
 - **136. Single Number**
-- **144. Binary Tree Preorder Traversal**
-- **145. Binary Tree Postorder Traversal**
-- **169. Majority Element**
-- **189. Rotate Array**
 - **191. Number of 1 Bits**
 - **231. Power of Two**
 - **263. Ugly Number**
-- **345. Reverse Vowels of a String**
-- **389. Find the Difference**
-- **392. Is Subsequence**
 - **412. Fizz Buzz**
 - **896. Monotonic Array**
 - **2390. Removing Stars From a String**
-- **3105. Longest Strictly Increasing or Strictly Decreasing Subarray**
 - **3151. Special Array I**
-- **3442. Maximum Difference Between Even and Odd Frequency I**

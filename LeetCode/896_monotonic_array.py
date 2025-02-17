@@ -13,6 +13,7 @@ class Solution:
         
         return is_increasing or is_decreasing
 
+ 
 # Time complexity: O(n)
 # Space complexity: O(1)
 

@@ -9,7 +9,7 @@
 - **42. Trapping Rain Water**
 - **43. Multiply Strings**
 - **100. Same Tree**
-- **104. Maximum Depth of Binary Tree**
+
 - **343. Integer Break**
 - **605. Can Place Flowers**
 - **994. Rotting Oranges**
@@ -22,6 +22,30 @@
 - **3427. Sum of Variable Length Subarrays**
 - **3432. Count Partitions with Even Sum Difference**
 - **3452. Sum of Good Numbers**
+
+- **7. Reverse Integer**
+
+- **11. Container With Most Water**
+- **53. Maximum Subarray**
+- **94. Binary Tree Inorder Traversal**
+- **121. Best Time to Buy and Sell Stock**
+
+- **144. Binary Tree Preorder Traversal**
+- **145. Binary Tree Postorder Traversal**
+- **169. Majority Element**
+- **189. Rotate Array**
+
+
+
+- **345. Reverse Vowels of a String**
+- **389. Find the Difference**
+- **392. Is Subsequence**
+
+
+
+- **3105. Longest Strictly Increasing or Strictly Decreasing Subarray**
+
+- **3442. Maximum Difference Between Even and Odd Frequency I**
 
 ## GeeksforGeeks 160
 - **1. Second Largest Element in an Array**
