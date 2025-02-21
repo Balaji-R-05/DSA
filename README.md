@@ -27,6 +27,7 @@
 - **345. Reverse Vowels of a String**
 - **389. Find the Difference**
 - **392. Is Subsequence**
+- **1261. Find Elements in a Contaminated Binary Tree**
 - **3105. Longest Strictly Increasing or Strictly Decreasing Subarray**
 - **3442. Maximum Difference Between Even and Odd Frequency I**
 

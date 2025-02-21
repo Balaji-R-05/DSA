@@ -16,6 +16,7 @@
 - **412. Fizz Buzz**
 - **504. Base 7**
 - **605. Can Place Flowers**
+- **700. Search in a Binary Search Tree**
 - **896. Monotonic Array**
 - **2390. Removing Stars From a String**
 - **3151. Special Array I**
