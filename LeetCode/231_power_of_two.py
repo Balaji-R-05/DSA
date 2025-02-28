@@ -1,3 +1,5 @@
+# 231. Power of Two
+
 class Solution:
     def isPowerOfTwo(self, n: int) -> bool:
         count = 0
