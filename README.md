@@ -24,6 +24,7 @@
 - **771. Jewels and Stones**
 - **938. Range Sum of BST**
 - **977. Squares of a Sorted Array**
+- **1047. Remove All Adjacent Duplicates In String**
 - **1281. Subtract the Product and Sum of Digits of an Integer**
 - **1480. Running Sum of 1d Array**
 - **1486. XOR Operation in an Array**
@@ -45,17 +46,21 @@
 - **2114. Maximum Number of Words Found in Sentences**
 - **2125. Number of Laser Beams in a Bank**
 - **2154. Keep Multiplying Found Values by Two**
+- **2161. Partition Array According to Given Pivot**
 - **2185. Counting Words With a Given Prefix**
+- **2278. Percentage of Letter in String**
 - **2413. Smallest Even Multiple**
 - **2418. Sort the People**
 - **2469. Convert the Temperature**
 - **2475. Number of Unequal Triplets in Array**
+- **2490. Circular Sentence**
 - **2520. Count the Digits That Divide a Number**
 - **2529. Maximum Count of Positive Integer and Negative Integer**
 - **2535. Difference Between Element Sum and Digit Sum of an Array**
 - **2545. Sort the Students by Their Kth Score**
 - **2652. Sum Multiples**
 - **2696. Minimum String Length After Removing Substrings**
+- **2716. Minimize String Length**
 - **2769. Find the Maximum Achievable Number**
 - **2798. Number of Employees Who Met the Target**
 - **2824. Count Pairs Whose Sum is Less than Target**
@@ -77,3 +82,8 @@
 ## SkillRack
 
 ## CodeForce
+
+- **4A - Watermelon**
+- **71A - Way Too Long Words**
+- **231A - Teams**
+- **282A - Bit++**
