@@ -80,6 +80,7 @@
 - **3110. Score of a String**
 - **3151. Special Array I**
 - **3190. Find Minimum Operations to Make All Elements Divisible by Three**
+- **3285. Find Indices of Stable Mountains**
 - **3442. Maximum Difference Between Even and Odd Frequency I**
 - **3452. Sum of Good Numbers**
 
