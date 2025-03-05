@@ -19,3 +19,11 @@ print(solution.isPowerOfTwo(n = 3))
 # Edge Cases
 # n == 0 
 # n == 2**31-1 and n == -2**31
+
+
+class Solution:
+    def isPowerOfTwo(self, n: int) -> bool:
+        if n<=0: return False
+        while(n%2==0):
+            n//=2
+        return n==1

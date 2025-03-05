@@ -6,8 +6,10 @@
 - **11. Container With Most Water**
 - **20. Valid Parentheses**
 - **43. Multiply Strings**
+- **83. Remove Duplicates from Sorted List**
 - **94. Binary Tree Inorder Traversal**
 - **136. Single Number**
+- **141. Linked List Cycle**
 - **144. Binary Tree Preorder Traversal**
 - **145. Binary Tree Postorder Traversal**
 - **169. Majority Element**
@@ -15,6 +17,8 @@
 - **222. Count Complete Tree Nodes**
 - **231. Power of Two**
 - **268. Missing Number**
+- **326. Power of Three**
+- **342. Power of Four**
 - **389. Find the Difference**
 - **392. Is Subsequence**
 - **412. Fizz Buzz**
@@ -26,6 +30,7 @@
 - **977. Squares of a Sorted Array**
 - **1047. Remove All Adjacent Duplicates In String**
 - **1281. Subtract the Product and Sum of Digits of an Integer**
+- **1470. Shuffle the Array**
 - **1480. Running Sum of 1d Array**
 - **1486. XOR Operation in an Array**
 - **1502. Can Make Arithmetic Progression From Sequence**
@@ -35,6 +40,7 @@
 - **1672. Richest Customer Wealth**
 - **1678. Goal Parser Interpretation**
 - **1688. Count of Matches in Tournament**
+- **1780. Check if Number is a Sum of Powers of Three**
 - **1790. Check if One String Swap Can Make Strings Equal**
 - **1816. Truncate Sentence**
 - **1832. Check if the Sentence Is Pangram**
@@ -43,6 +49,7 @@
 - **2006. Count Number of Pairs With Absolute Difference K**
 - **2011. Final Value of Variable After Performing Operations**
 - **2089. Find Target Indices After Sorting Array**
+- **2095. Delete the Middle Node of a Linked List**
 - **2114. Maximum Number of Words Found in Sentences**
 - **2125. Number of Laser Beams in a Bank**
 - **2154. Keep Multiplying Found Values by Two**
@@ -78,12 +85,27 @@
 
 
 ## GeeksforGeeks
+### 160 Days Challenge
+
+- **1. Second Largest**
+- **2. Move All Zeroes to End**
 
 ## SkillRack
 
-## CodeForce
+
+## CodeForces
 
 - **4A - Watermelon**
+- **50A - Domino Piling**
+- **59A - Word**
 - **71A - Way Too Long Words**
+- **110A - Nearly Lucky Number**
+- **158A - Next Round**
 - **231A - Teams**
+- **236A - Boy or Girl**
+- **271A - Beautiful Year**
+- **281A - Word Capitalization**
 - **282A - Bit++**
+- **520A - Pangram**
+- **617A - Elephant**
+- **977A - Wrong Subtraction**
