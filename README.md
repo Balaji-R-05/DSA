@@ -22,6 +22,7 @@
 - **389. Find the Difference**
 - **392. Is Subsequence**
 - **412. Fizz Buzz**
+- **414. Third Maximum Number**
 - **700. Search in a Binary Search Tree**
 - **709. To Lower Case**
 - **728. Self Dividing Numbers**
@@ -30,12 +31,14 @@
 - **977. Squares of a Sorted Array**
 - **1047. Remove All Adjacent Duplicates In String**
 - **1281. Subtract the Product and Sum of Digits of an Integer**
+- **1313. Decompress Run-Length Encoded List**
 - **1470. Shuffle the Array**
 - **1480. Running Sum of 1d Array**
 - **1486. XOR Operation in an Array**
 - **1502. Can Make Arithmetic Progression From Sequence**
 - **1512. Number of Good Pairs**
 - **1572. Matrix Diagonal Sum**
+- **1614. Maximum Nesting Depth of the Parentheses**
 - **1662. Check If Two String Arrays are Equivalent**
 - **1672. Richest Customer Wealth**
 - **1678. Goal Parser Interpretation**
@@ -46,6 +49,7 @@
 - **1832. Check if the Sentence Is Pangram**
 - **1920. Build Array from Permutation**
 - **1929. Concatenation of Array**
+- **2000. Reverse Prefix of Word**
 - **2006. Count Number of Pairs With Absolute Difference K**
 - **2011. Final Value of Variable After Performing Operations**
 - **2089. Find Target Indices After Sorting Array**
@@ -81,6 +85,7 @@
 - **3151. Special Array I**
 - **3190. Find Minimum Operations to Make All Elements Divisible by Three**
 - **3285. Find Indices of Stable Mountains**
+- **3340. Check Balanced String**
 - **3442. Maximum Difference Between Even and Odd Frequency I**
 - **3452. Sum of Good Numbers**
 
@@ -97,8 +102,10 @@
 ## CodeForces
 
 - **4A - Watermelon**
+- **41A - Translation**
 - **50A - Domino Piling**
 - **59A - Word**
+- **61A - Ultra-Fast Mathematician**
 - **71A - Way Too Long Words**
 - **110A - Nearly Lucky Number**
 - **158A - Next Round**
@@ -107,6 +114,9 @@
 - **271A - Beautiful Year**
 - **281A - Word Capitalization**
 - **282A - Bit++**
+- **339A - Helpful Maths**
 - **520A - Pangram**
 - **617A - Elephant**
 - **977A - Wrong Subtraction**
+- **1030A - In Search of an Easy Problem**
+- **200B - Drinks**
