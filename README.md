@@ -46,6 +46,7 @@
 - **1780. Check if Number is a Sum of Powers of Three**
 - **1790. Check if One String Swap Can Make Strings Equal**
 - **1816. Truncate Sentence**
+- **1823. Find the Winner of the Circular Game**
 - **1832. Check if the Sentence Is Pangram**
 - **1920. Build Array from Permutation**
 - **1929. Concatenation of Array**
@@ -59,6 +60,7 @@
 - **2154. Keep Multiplying Found Values by Two**
 - **2161. Partition Array According to Given Pivot**
 - **2185. Counting Words With a Given Prefix**
+- **2206. Divide Array Into Equal Pairs**
 - **2278. Percentage of Letter in String**
 - **2413. Smallest Even Multiple**
 - **2418. Sort the People**
