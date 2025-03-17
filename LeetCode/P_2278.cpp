@@ -1,5 +1,8 @@
 // 2278. Percentage of Letter in String
 
+#include<string>
+using namespace std;
+
 class Solution
 {
 public:
