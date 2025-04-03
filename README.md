@@ -30,7 +30,9 @@
 - **938. Range Sum of BST**
 - **977. Squares of a Sorted Array**
 - **1047. Remove All Adjacent Duplicates In String**
+- **1221. Split a String in Balanced Strings**
 - **1281. Subtract the Product and Sum of Digits of an Integer**
+- **1290. Convert Binary Number in a Linked List to Integer**
 - **1313. Decompress Run-Length Encoded List**
 - **1470. Shuffle the Array**
 - **1480. Running Sum of 1d Array**
