@@ -12,10 +12,3 @@ class Solution:
     
 # Time complexity: O(log(x))
 # Space complexity: O(1)
-
-# Testcase
-solution = Solution()
-
-print(solution.isPalindrome(121)) # True
-print(solution.isPalindrome(10)) # False
-print(solution.isPalindrome(-121)) # False

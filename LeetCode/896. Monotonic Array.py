@@ -16,7 +16,3 @@ class Solution:
  
 # Time complexity: O(n)
 # Space complexity: O(1)
-
-solution = Solution()
-print(solution.isMonotonic([1,2,2,3]))
-print(solution.isMonotonic([1,3,2]))

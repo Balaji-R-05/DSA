@@ -11,7 +11,7 @@ def binary_search(arr: list[int], target:int) -> int:
             right = mid - 1
     return -1
 
-if __name__ == "__main__":
-    arr = list(map(int, input().split()))
-    target = int(input())
-    print("Target not found in array" if binary_search(arr, target)==-1 else f"Target found at index {binary_search(arr, target)}")
+# if __name__ == "__main__":
+#     arr = list(map(int, input().split()))
+#     target = int(input())
+#     print("Target not found in array" if binary_search(arr, target)==-1 else f"Target found at index {binary_search(arr, target)}")

@@ -8,12 +8,5 @@ class Solution:
             n>>=1
         return count
     
-# Time complexity: O(1)
+# Time complexity: O(n) where n is the number of bits in the integer
 # Space complexity: O(1)
-
-solution = Solution()
-n = 11
-print(solution.hammingWeight(n)) # Output: 3
-
-n = 128
-print(solution.hammingWeight(n)) # Output: 1

@@ -6,6 +6,7 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution:
     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         res = []
