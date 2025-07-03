@@ -15,5 +15,5 @@ class Solution {
     }
 }
 
-// Time complexity: O(logn)
+// Time complexity: O(log(n))
 // Space complexity: O(1)

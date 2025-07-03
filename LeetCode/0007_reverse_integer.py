@@ -15,10 +15,3 @@ class Solution:
 # Time complexity: O(log(x))
 # Space complexity: O(1)
 
-solution = Solution()
-print(solution.reverse(123))
-print(solution.reverse(-123))
-print(solution.reverse(120))
-print(solution.reverse(0))
-print(solution.reverse(1534236469))
-

@@ -6,10 +6,3 @@ class Solution:
     
 # Time complexity: O(n)
 # Space complexity: O(1)
-
-"""
-solution = Solution()
-print(solution.multiply(num1="3", num2="2"))
-print(solution.multiply(num1 = "123", num2 = "456"))
-"""
-
