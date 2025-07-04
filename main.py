@@ -1,29 +1,22 @@
-s = input().lower().strip()
-n = len(s)
-mat = [[0]*n for _ in range(n)]
+# 1
+# 2 9
+# 3 8 10
+# 4 7 11 14
+# 5 6 12 13 15
 
-max_length = 1
-longest_palindrome = ""
-
-for i in range(n):
-    mat[i][i] = 1 
-
-for i in range(n):
-    for j in range(n):
-        if s[i] == s[j] and j - i == 1:
-            mat[i][j] = 1
-            if max_length < 2:
-                max_length = 2
-                longest_palindrome = s[i:j+1]
-        elif i < n - 1 and j < n - 1 and s[i] == s[j] and mat[i + 1][j - 1] == 1:
-            mat[i][j] = 1
-            if max_length < j - i + 1:
-                max_length = j - i + 1
-                longest_palindrome = s[i:j+1]
-        
-        
-        
-
-
-print(*mat, sep="\n")
-        
+n = 5
+res1 = 7
+res2 = 2
+for i in range(1, n+1):
+    flag = 0
+    for j in range(0,i):
+        if j%2 == 1:
+            print(i+res1, end=' ')
+            flag = 1
+        else:
+            print(i, end=' ')
+            flag = 0
+            
+    if flag == 1:
+        res1-=2
+    print()
