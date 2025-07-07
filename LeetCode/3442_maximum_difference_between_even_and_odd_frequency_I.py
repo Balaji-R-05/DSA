@@ -15,12 +15,22 @@ class Solution:
                 even_freq.append(count)
             else:
                 odd_freq.append(count)
-
         max_odd = max(odd_freq) if odd_freq else 0
         min_even = min(even_freq) if even_freq else 0
-
         return max_odd - min_even
     
 # Time complexity: O(n)
 # Space complexity: O(n)
 
+class Solution:
+    def maxDifference(self, s: str) -> int:
+        from collections import Counter
+        freq = Counter(s)
+        even_freq = [freq[x] for x in freq if freq[x]%2==0]
+        odd_freq = [freq[x] for x in freq if freq[x]%2==1]
+        max_odd = max(odd_freq) if odd_freq else 0
+        min_even = min(even_freq) if even_freq else 0
+        return max_odd - min_even
+
+# Time complexity: O(n)
+# Space complexity: O(n)

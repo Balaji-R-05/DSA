@@ -1,5 +1,6 @@
 # 2278. Percentage of Letter in String
 
+from math import floor
 class Solution:
     def percentageLetter(self, s: str, letter: str) -> int:
         count = 0

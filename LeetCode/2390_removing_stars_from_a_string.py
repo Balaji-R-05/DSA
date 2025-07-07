@@ -9,8 +9,6 @@ class Solution:
             else:
                 stk.pop()
         return "".join(stk)
-    
-solution = Solution()
 
 # Time complexity: O(n)
 # Space complexity: O(n)
