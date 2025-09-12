@@ -8,3 +8,6 @@ class Solution {
         return count;
     }
 }
+
+// Time Complexity: O(1) - Since the number of bits in an integer is fixed (32 or 64 bits)
+// Space Complexity: O(1) - No additional space is used that scales with input size
