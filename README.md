@@ -10,14 +10,10 @@ In addition to solutions, this repository automatically displays my **competitiv
 
 The goal is to **track my growth as a problem solver** while preparing for **coding interviews, competitive contests, and real-world software engineering challenges**.  
 
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Competitive%20Programming-Stats-blue?style=for-the-badge&logo=hackerrank" />
   <img src="https://img.shields.io/badge/Platforms-LeetCode%20%7C%20Codeforces%20%7C%20AtCoder-orange?style=for-the-badge" />
 </p>
-
----
 
 ## 🏆 Codeforces
 <p align="center">
@@ -26,7 +22,6 @@ The goal is to **track my growth as a problem solver** while preparing for **cod
   </a>
 </p>
 
----
 
 ## 🔥 LeetCode
 <p align="center">
@@ -35,11 +30,9 @@ The goal is to **track my growth as a problem solver** while preparing for **cod
   </a>
 </p>
 
----
-
 ## ⚡ AtCoder
 <p align="center">
   <a href="https://atcoder.jp/users/Balaji_777">
     <img src="https://atcoder-readme-stats.vercel.app/stats/Balaji_777?theme=darcula&width=450" alt="AtCoder Stats" />
   </a>
-</p>
+</p>git 
