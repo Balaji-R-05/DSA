@@ -1,0 +1,5 @@
+# Bytecode, compiled, and build files
+
+*.pyc
+*.class
+__pycache__/
