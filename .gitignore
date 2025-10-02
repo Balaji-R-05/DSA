@@ -3,3 +3,6 @@
 *.pyc
 *.class
 __pycache__/
+
+
+.vscode
