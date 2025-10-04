@@ -1,3 +1,5 @@
+// Count of pairs such that i < j and arr[i] > arr[j]
+
 import java.util.*;
 
 public class Count_Inversion {

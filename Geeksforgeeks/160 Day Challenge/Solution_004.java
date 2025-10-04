@@ -1,4 +1,4 @@
-class Solution {
+class Solution_004 {
     static void rotateArr(int arr[], int d) {
         int n = arr.length;
         d = d%n;
