@@ -21,3 +21,6 @@
 ### Day 4
 - LC 72. Edit Distance
 - LC 93. Restore IP Addresses
+
+### Day 5
+- Apple_Orange.java
