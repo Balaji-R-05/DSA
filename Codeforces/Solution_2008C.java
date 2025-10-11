@@ -23,4 +23,3 @@ public class Solution_2008C {
         sc.close();
     }
 }
-
