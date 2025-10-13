@@ -13,3 +13,6 @@ public class ABC_164_A {
     sc.close();
   }
 }
+
+// Time Complexity: O(1)
+// Space Complexity: O(1)
