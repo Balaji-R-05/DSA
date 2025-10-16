@@ -1,4 +1,4 @@
-class Solution {
+class Solution_169 {
     public int majorityElement(int[] nums) {
         int count = 0, candidate = 0;
         for(int num: nums){

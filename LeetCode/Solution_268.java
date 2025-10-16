@@ -1,4 +1,4 @@
-class Solution {
+class Solution_268 {
     public int missingNumber(int[] nums) {
         int length = nums.length,curr = 0;
         int sum = (length*(length+1))/2;

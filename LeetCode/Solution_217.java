@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class Solution_217 {
     public boolean containsDuplicate(int[] nums) {
         HashSet<Integer> seen = new HashSet<>();
         for(int num: nums) {
