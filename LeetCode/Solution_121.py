@@ -9,7 +9,6 @@ class Solution:
                 start = prices[i]
             elif prices[i]-start>profit:
                 profit = prices[i]-start
-        
         return profit
 
 # Time Complexity: O(n) - We traverse the list of prices once

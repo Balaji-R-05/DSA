@@ -28,3 +28,6 @@ class Solution:
                     queue.append(node.right)
             res.append(temp)
         return res[::-1]
+
+# Time Complexity: O(n)
+# Space Complexity: O(n)

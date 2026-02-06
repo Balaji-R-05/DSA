@@ -10,36 +10,11 @@ In addition to solutions, this repository automatically displays my **competitiv
 
 The goal is to **track my growth as a problem solver** while preparing for **coding interviews, competitive contests, and real-world software engineering challenges**.  
 
-<!-- ### 🎯 Repository Goals
-
-```python
-goals = {
-    "primary": [
-        "Master fundamental data structures and algorithms",
-        "Prepare for technical interviews at top tech companies",
-        "Improve competitive programming skills and ratings"
-    ],
-    "tracking": [
-        "Document problem-solving approaches and thought processes",
-        "Build a comprehensive archive of solutions",
-        "Track progress across multiple platforms"
-    ],
-    "growth": [
-        "Develop efficient problem-solving strategies",
-        "Learn from mistakes and optimize solutions",
-        "Stay consistent with daily practice"
-    ]
-}
-``` -->
-
-<!-- <h2 align="center"> 🛠️ Languages Used</h2> -->
-
 <div align="center">
   <div style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-    <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> -->
   </div>
 </div>
 
@@ -70,22 +45,3 @@ goals = {
 </a>
 
 </div> 
-
-
-<!-- ## 💡 Key Learnings & Insights
-
-> **"The best way to learn algorithms is to solve problems, not just read about them."**
-
-- 🧠 **Pattern Recognition**: Identifying problem patterns speeds up solution time significantly
-- ⚡ **Time Complexity**: Always aim for optimal solutions, but get a working solution first
-- 🔄 **Practice Consistently**: Daily practice is more effective than weekend marathons
-- 📝 **Document Solutions**: Writing explanations reinforces understanding
-- 🤝 **Learn from Others**: Studying different approaches expands problem-solving toolkit
-
---- -->
-
-<!-- <div align="center">
-
-### ⭐ Star this repository if you find it helpful!
-
-</div> -->

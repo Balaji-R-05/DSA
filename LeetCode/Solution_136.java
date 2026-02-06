@@ -1,3 +1,5 @@
+// 136. Single Number
+
 class Solution_136 {
     public int singleNumber(int[] nums) {
         int res = 0;
@@ -8,5 +10,5 @@ class Solution_136 {
     }
 }
 
-// Time Complexity - O(N)
-// Space Complexity - O(1)
+// Time Complexity: O(n)
+// Space Complexity: O(1)
