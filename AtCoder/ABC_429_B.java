@@ -14,6 +14,7 @@ public class ABC_429_B {
     for(int i=0; i<N; i++){
       if (total - arr[i] == K) {
         System.out.println("Yes");
+        sc.close();
         return;
       }
     }
