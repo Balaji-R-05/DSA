@@ -9,3 +9,6 @@ def main():
         
 if __name__ == "__main__":
     main()
+
+# Time complexity: O(1)
+# Space complexity: O(1)

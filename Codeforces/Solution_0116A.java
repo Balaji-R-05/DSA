@@ -1,6 +1,6 @@
 import java.util.*;
  
-public class Solution_116A {
+public class Solution_0116A {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     int tram = 0;
@@ -17,3 +17,6 @@ public class Solution_116A {
     sc.close();
   }
 }
+
+// Time complexity: O(T)
+// Space complexity: O(1).

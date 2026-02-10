@@ -1,3 +1,5 @@
+# 112A - Relative Sort
+
 def main():
     s1 = input().strip().lower()
     s2 = input().strip().lower()
@@ -14,5 +16,5 @@ def main():
 if __name__ == "__main__":
         main()
 
-# Time complexity: O(n)
+# Time complexity: O(N)
 # Space complexity: O(1)
