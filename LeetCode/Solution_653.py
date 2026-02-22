@@ -8,9 +8,8 @@ class TreeNode:
 
 from typing import Optional
 
-class Solution:
+class Solution_653:
     def findTarget(self, root: Optional[TreeNode], k: int) -> bool:
-        
         res = []
         def helper(node):
             if node:

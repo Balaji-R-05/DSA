@@ -1,4 +1,6 @@
-class Solution:
+# 3713. Longest Balanced Substring
+
+class Solution_3713:
     def longestBalanced(self, s: str) -> int:
         n = len(s)
         res = 0
