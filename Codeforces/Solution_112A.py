@@ -1,4 +1,4 @@
-# 112A - Relative Sort
+# 112A - Petya and Strings
 
 def main():
     s1 = input().strip().lower()
