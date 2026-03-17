@@ -9,6 +9,7 @@
 - **217. Contains Duplicate**
 - **268. Missing Number**
 - **513. Find Bottom Left Tree Value**
+- **515. Find Largest Value in Each Tree Row**
 - **637. Average of Levels in Binary Tree**
 - **693. Binary Number with Alternating Bits**
 - **762. Prime Number of Set Bits in Binary Representation**
