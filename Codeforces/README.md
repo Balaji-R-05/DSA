@@ -8,6 +8,7 @@ This repository contains my solutions to various problems from [Codeforces](http
 - **59A** - Word
 - **69A** - Young Physicist
 - **71A** - Way Too Long Words
+- **96A** - Football
 - **110A** - Nearly Lucky Number
 - **112A** - Petya and Strings
 - **118A** - String Task
@@ -21,5 +22,6 @@ This repository contains my solutions to various problems from [Codeforces](http
 - **339A** - Helpful Maths
 - **546A** - Soldier and Bananas
 - **617A** - Elephant
+- **734A** - Anton and Danik
 - **791A** - Bear and Big Brother
 - **977A** - Wrong Subtraction
