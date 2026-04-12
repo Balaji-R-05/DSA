@@ -1,6 +1,6 @@
 // 191. Number of 1 Bits
 
-class Solution_191 {
+class Solution_0191 {
     public int hammingWeight(int n) {
         int count = 0;
         while(n > 0) {

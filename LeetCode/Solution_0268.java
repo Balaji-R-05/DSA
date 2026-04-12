@@ -1,6 +1,6 @@
 // 268. Missing Number
 
-class Solution_268 {
+class Solution_0268 {
     public int missingNumber(int[] nums) {
         int length = nums.length,curr = 0;
         int sum = (length*(length+1))/2;
