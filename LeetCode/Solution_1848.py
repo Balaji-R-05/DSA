@@ -1,0 +1,14 @@
+# 1848. Minimum Distance to the Target Element
+
+from typing import List
+
+class Solution:
+    def getMinDistance(self, nums: List[int], target: int, start: int) -> int:
+        res = float("inf")
+        for i in range(len(nums)):
+            if nums[i] == target:
+                res = min(abs(i-start), res)
+        return res
+
+# Time Complexity: O(n)
+# Space Complexity: O(1)

@@ -1,15 +1,25 @@
 # LEETCODE
 
-- **102. Binary Tree Level Order Traversal**
-- **107. Binary Tree Level Order Traversal II**
-- **121. Best Time to Buy and Sell Stock**
-- **136. Single Number**
-- **169. Majority Element**
-- **191. Number of 1 Bits**
-- **217. Contains Duplicate**
-- **268. Missing Number**
-- **513. Find Bottom Left Tree Value**
-- **515. Find Largest Value in Each Tree Row**
-- **637. Average of Levels in Binary Tree**
-- **693. Binary Number with Alternating Bits**
-- **762. Prime Number of Set Bits in Binary Representation**
+- 1. Two Sum
+- 28. Find the Index of the First Occurrence in a String
+- 62. Unique Paths
+- 63. Unique Paths II
+- 102. Binary Tree Level Order Traversal
+- 107. Binary Tree Level Order Traversal II
+- 121. Best Time to Buy and Sell Stock
+- 136. Single Number
+- 137. Single Number II
+- 169. Majority Element
+- 191. Number of 1 Bits
+- 217. Contains Duplicate
+- 268. Missing Number
+- 513. Find Bottom Left Tree Value
+- 515. Find Largest Value in Each Tree Row
+- 637. Average of Levels in Binary Tree
+- 653. Two Sum IV - Input is a BST
+- 693. Binary Number with Alternating Bits
+- 762. Prime Number of Set Bits in Binary Representation
+- 1848. Minimum Distance to the Target Element
+- 2351. First Letter to Appear Twice
+- 3713. Longest Balanced Substring I
+- 3740. Minimum Distance Between Three Equal Elements I
