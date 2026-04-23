@@ -1,6 +1,7 @@
 # Buildings with Sunlight
 
-# Given an array of positive integers representing the heights of buildings, determine how many buildings will receive sunlight. A building receives sunlight if there are no taller buildings to its right.
+# Given an array of positive integers representing the heights of buildings, determine how many buildings will receive sunlight.
+# A building receives sunlight if there are no taller buildings to its right.
 
 class Solution:
     def visibleBuildings(self, arr):
