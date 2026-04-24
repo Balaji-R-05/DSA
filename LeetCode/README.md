@@ -17,9 +17,12 @@
 - 515. Find Largest Value in Each Tree Row
 - 637. Average of Levels in Binary Tree
 - 653. Two Sum IV - Input is a BST
+- 657. Robot Return to Origin
 - 693. Binary Number with Alternating Bits
 - 762. Prime Number of Set Bits in Binary Representation
+- 977. Squares of a Sorted Array
 - 1848. Minimum Distance to the Target Element
 - 2351. First Letter to Appear Twice
+- 2833. Furthest Point From Origin
 - 3713. Longest Balanced Substring I
 - 3740. Minimum Distance Between Three Equal Elements I
