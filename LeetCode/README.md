@@ -26,3 +26,5 @@
 - 2833. Furthest Point From Origin
 - 3713. Longest Balanced Substring I
 - 3740. Minimum Distance Between Three Equal Elements I
+- 3908. Valid Digit Number
+- 3909. Compare Sums of Bitonic Parts
