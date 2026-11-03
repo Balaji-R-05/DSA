@@ -1,13 +1,14 @@
-<svg width="500" height="190" viewBox="0 0 500 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AtCoder stats for Balaji_777">
+<svg width="500" height="350" viewBox="0 0 500 350" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AtCoder stats for Balaji_777">
   <style>
     .card { font-family: 'Segoe UI', Ubuntu, Sans-Serif; }
     .title { fill: #c9d1d9; font-size: 18px; font-weight: 600; }
-    .label { fill: #8b949e; font-size: 14px; }
-    .value { fill: #c9d1d9; font-size: 14px; font-weight: 600; }
+    .label { fill: #8b949e; font-size: 13px; }
+    .value { fill: #c9d1d9; font-size: 13px; font-weight: 600; }
     .rating { fill: #c57b3c; font-size: 44px; font-weight: 700; }
     .rating-label { fill: #8b949e; font-size: 13px; }
+    .axis-label { fill: #6e7681; font-size: 11px; }
   </style>
-  <rect x="0.5" y="0.5" rx="12" width="499" height="189" fill="#0d1117" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" rx="12" width="499" height="349" fill="#0d1117" stroke="#30363d"/>
   <g class="card">
     <text x="24" y="34" class="title">⚡ Balaji_777's AtCoder Stats</text>
     <line x1="24" y1="46" x2="476" y2="46" stroke="#30363d"/>
@@ -21,5 +22,13 @@
     <text x="200" y="112" class="label">Highest Rating</text><text x="476" y="112" text-anchor="end" class="value">659 (7 Kyu)</text>
     <text x="200" y="138" class="label">Rated Matches</text><text x="476" y="138" text-anchor="end" class="value">34</text>
     <text x="200" y="164" class="label">Last Competed</text><text x="476" y="164" text-anchor="end" class="value">2026/10/17</text>
+
+    <line x1="24" y1="182" x2="476" y2="182" stroke="#30363d"/>
+
+    <text x="24" y="200" class="label">Promotion Progress</text><text x="476" y="200" text-anchor="end" class="value">+141 to promote</text><rect x="24" y="212" width="452" height="8" rx="4" fill="#30363d"/><rect x="24" y="212" width="292.7" height="8" rx="4" fill="#c57b3c"/>
+
+    <line x1="24" y1="238" x2="476" y2="238" stroke="#30363d"/>
+
+    <line x1="50" y1="320.0" x2="476" y2="320.0" stroke="#30363d" stroke-width="1"/><text x="42" y="324.0" text-anchor="end" class="axis-label">0</text><line x1="50" y1="302.5" x2="476" y2="302.5" stroke="#30363d" stroke-width="1"/><text x="42" y="306.5" text-anchor="end" class="axis-label">200</text><line x1="50" y1="285.0" x2="476" y2="285.0" stroke="#30363d" stroke-width="1"/><text x="42" y="289.0" text-anchor="end" class="axis-label">400</text><line x1="50" y1="267.5" x2="476" y2="267.5" stroke="#30363d" stroke-width="1"/><text x="42" y="271.5" text-anchor="end" class="axis-label">600</text><line x1="50" y1="250.0" x2="476" y2="250.0" stroke="#30363d" stroke-width="1"/><text x="42" y="254.0" text-anchor="end" class="axis-label">800</text><polyline points="50.0,318.5 62.9,317.6 75.8,315.5 88.7,314.6 101.6,313.4 114.5,311.4 127.5,309.1 140.4,304.7 153.3,304.2 166.2,302.4 179.1,298.5 192.0,297.6 204.9,292.6 217.8,293.8 230.7,297.8 243.6,301.2 256.5,301.0 269.5,303.4 282.4,302.7 295.3,296.6 308.2,291.4 321.1,288.8 334.0,284.8 346.9,285.5 359.8,282.5 372.7,277.3 385.6,274.7 398.5,272.1 411.5,278.4 424.4,268.1 437.3,263.6 450.2,265.8 463.1,265.8 476.0,262.3" fill="none" stroke="#c57b3c" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/><text x="50" y="336" class="axis-label">2025/08</text><text x="476" y="336" text-anchor="end" class="axis-label">2026/10</text>
   </g>
 </svg>

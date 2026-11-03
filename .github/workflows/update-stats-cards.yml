@@ -1,4 +1,4 @@
-name: Update AtCoder card
+name: Update stats cards
 
 on:
   schedule:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  update-card:
+  update-cards:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -18,17 +18,19 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Generate card
-        run: python scripts/generate_atcoder_card.py
+      - name: Generate cards
+        run: |
+          python scripts/generate_atcoder_card.py
+          python scripts/generate_codechef_card.py
 
       - name: Commit if changed
         run: |
-          if ! git diff --quiet -- assets/atcoder-stats.svg; then
+          if ! git diff --quiet -- assets/atcoder-stats.svg assets/codechef-stats.svg; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add assets/atcoder-stats.svg
-            git commit -m "Update AtCoder stats card"
+            git add assets/atcoder-stats.svg assets/codechef-stats.svg
+            git commit -m "Update stats cards"
             git push
           else
-            echo "No change in AtCoder stats."
+            echo "No change in stats."
           fi
