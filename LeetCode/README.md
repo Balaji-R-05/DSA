@@ -22,9 +22,11 @@
 - 762. Prime Number of Set Bits in Binary Representation
 - 977. Squares of a Sorted Array
 - 1848. Minimum Distance to the Target Element
+- 2144. Minimum Cost of Buying Candies With Discount
 - 2351. First Letter to Appear Twice
 - 2833. Furthest Point From Origin
 - 3713. Longest Balanced Substring I
+- 3736. Minimum Moves to Equal Array Elements III
 - 3740. Minimum Distance Between Three Equal Elements I
 - 3895. Count Digit Appearances
 - 3908. Valid Digit Number

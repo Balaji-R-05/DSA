@@ -1,7 +1,7 @@
 """Generate a self-hosted AtCoder stats SVG card from the public profile page.
 
-Run manually with `python scripts/generate_atcoder_card.py`, or let the
-`update-atcoder-card` GitHub Action keep it fresh on a schedule.
+Run manually with `python tooling/scripts/generate_atcoder_card.py`, or let the
+`update-stats-cards` GitHub Action keep it fresh on a schedule.
 """
 import json
 import re
@@ -12,7 +12,7 @@ from chart_utils import render_axis_chart
 USERNAME = "Balaji_777"
 PROFILE_URL = f"https://atcoder.jp/users/{USERNAME}"
 HISTORY_URL = f"https://atcoder.jp/users/{USERNAME}/history/json"
-OUTPUT_PATH = "assets/atcoder-stats.svg"
+OUTPUT_PATH = "tooling/assets/atcoder-stats.svg"
 
 # AtCoder rank colors, brightened slightly for a dark card background.
 RANK_COLORS = {

@@ -1,14 +1,15 @@
-"""Regenerate LeetCode/README.md, AtCoder/README.md and Codeforces/README.md
+"""
+Regenerate LeetCode/README.md, AtCoder/README.md and Codeforces/README.md
 from the files actually on disk, so these lists never drift out of sync
 with the solutions folders again.
 
 Run manually after adding new solutions:
-    python scripts/generate_readmes.py
+    python tooling/scripts/generate_readmes.py
 """
 import re
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parent.parent.parent
 
 # Titles aren't recoverable from a bare filename, so keep a small local
 # lookup seeded from the current README plus any titles found in a
@@ -72,7 +73,7 @@ def generate_atcoder_readme():
         if m:
             contests.setdefault(("ABC", int(m.group(1))), set()).add(m.group(2))
 
-    for path in ac.glob("Atcoder_Weekly/*/AWC_*.*"):
+    for path in ac.glob("AWC/*/AWC_*.*"):
         m = re.match(r"AWC_(\d+)_([A-Z])\.\w+$", path.name)
         if m:
             contests.setdefault(("AWC", int(m.group(1))), set()).add(m.group(2))

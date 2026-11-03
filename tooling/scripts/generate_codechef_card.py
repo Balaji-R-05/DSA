@@ -1,7 +1,7 @@
 """Generate a self-hosted CodeChef stats SVG card from the public profile page.
 
-Run manually with `python scripts/generate_codechef_card.py`, or let the
-`update-codechef-card` GitHub Action keep it fresh on a schedule.
+Run manually with `python tooling/scripts/generate_codechef_card.py`, or let the
+`update-stats-cards` GitHub Action keep it fresh on a schedule.
 """
 import json
 import re
@@ -11,7 +11,7 @@ from chart_utils import render_axis_chart
 
 USERNAME = "lord_grim_777"
 PROFILE_URL = f"https://www.codechef.com/users/{USERNAME}"
-OUTPUT_PATH = "assets/codechef-stats.svg"
+OUTPUT_PATH = "tooling/assets/codechef-stats.svg"
 
 STAR_COLORS = {
     1: "#9e9e9e",

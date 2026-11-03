@@ -6,6 +6,6 @@ __pycache__/
 
 .vscode
 
-#   Image
+# Image
 *.png
 *.jpeg

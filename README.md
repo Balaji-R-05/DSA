@@ -42,7 +42,7 @@ The goal is to **track my growth as a problem solver** while preparing for **cod
 ### ⚡ AtCoder Rankings
 
 <a href="https://atcoder.jp/users/Balaji_777">
-  <img src="https://raw.githubusercontent.com/Balaji-R-05/DSA/main/assets/atcoder-stats.svg" alt="AtCoder Stats" width="500"/>
+  <img src="https://raw.githubusercontent.com/Balaji-R-05/DSA/main/tooling/assets/atcoder-stats.svg" alt="AtCoder Stats" width="500"/>
 </a>
 
 <br/><br/>
@@ -50,7 +50,7 @@ The goal is to **track my growth as a problem solver** while preparing for **cod
 ### ♟️ CodeChef Rankings
 
 <a href="https://www.codechef.com/users/lord_grim_777">
-  <img src="https://raw.githubusercontent.com/Balaji-R-05/DSA/main/assets/codechef-stats.svg" alt="CodeChef Stats" width="500"/>
+  <img src="https://raw.githubusercontent.com/Balaji-R-05/DSA/main/tooling/assets/codechef-stats.svg" alt="CodeChef Stats" width="500"/>
 </a>
 
 </div> 
