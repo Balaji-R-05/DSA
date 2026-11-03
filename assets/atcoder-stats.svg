@@ -1,0 +1,25 @@
+<svg width="500" height="190" viewBox="0 0 500 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AtCoder stats for Balaji_777">
+  <style>
+    .card { font-family: 'Segoe UI', Ubuntu, Sans-Serif; }
+    .title { fill: #c9d1d9; font-size: 18px; font-weight: 600; }
+    .label { fill: #8b949e; font-size: 14px; }
+    .value { fill: #c9d1d9; font-size: 14px; font-weight: 600; }
+    .rating { fill: #c57b3c; font-size: 44px; font-weight: 700; }
+    .rating-label { fill: #8b949e; font-size: 13px; }
+  </style>
+  <rect x="0.5" y="0.5" rx="12" width="499" height="189" fill="#0d1117" stroke="#30363d"/>
+  <g class="card">
+    <text x="24" y="34" class="title">⚡ Balaji_777's AtCoder Stats</text>
+    <line x1="24" y1="46" x2="476" y2="46" stroke="#30363d"/>
+
+    <text x="24" y="80" class="rating-label">Current Rating</text>
+    <text x="24" y="124" class="rating">659</text>
+
+    <line x1="176" y1="60" x2="176" y2="150" stroke="#30363d"/>
+
+    <text x="200" y="86" class="label">Global Rank</text><text x="476" y="86" text-anchor="end" class="value">#27145</text>
+    <text x="200" y="112" class="label">Highest Rating</text><text x="476" y="112" text-anchor="end" class="value">659 (7 Kyu)</text>
+    <text x="200" y="138" class="label">Rated Matches</text><text x="476" y="138" text-anchor="end" class="value">34</text>
+    <text x="200" y="164" class="label">Last Competed</text><text x="476" y="164" text-anchor="end" class="value">2026/10/17</text>
+  </g>
+</svg>

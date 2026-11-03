@@ -41,7 +41,7 @@ The goal is to **track my growth as a problem solver** while preparing for **cod
 ### ⚡ AtCoder Rankings
 
 <a href="https://atcoder.jp/users/Balaji_777">
-  <img src="https://atcoder-readme-stats.vercel.app/stats/Balaji_777?theme=darcula&width=500" alt="AtCoder Stats"/>
+  <img src="https://raw.githubusercontent.com/Balaji-R-05/DSA/main/assets/atcoder-stats.svg" alt="AtCoder Stats" width="500"/>
 </a>
 
 </div> 

@@ -15,6 +15,7 @@ This repository contains my solutions to various problems from [Codeforces](http
 - **116A** - Tram
 - **118A** - String Task
 - **158A** - Next Round
+- **228A**
 - **231A** - Team
 - **236A** - Boy or Girl
 - **263A** - Beautiful Matrix
@@ -23,10 +24,26 @@ This repository contains my solutions to various problems from [Codeforces](http
 - **282A** - Bit++
 - **339A** - Helpful Maths
 - **467A** - George and Accommodation
+- **469A**
 - **546A** - Soldier and Bananas
-- **617A** - Elephant
 - **677A** - Vanya and Fence
-- **734A** - Anton and Danik
 - **791A** - Bear and Big Brother
 - **977A** - Wrong Subtraction
-- **1030A** - In Search of an Easy Problem
+- **1335A** - Candies and Two Sisters
+- **1352A**
+- **1512A**
+- **1619A**
+- **1669A**
+- **1692A**
+- **1742B**
+- **1772A** - A+B?
+- **1791A**
+- **1791C** - Prepend and Append
+- **1807A**
+- **1829B**
+- **1873A** - Short Sort
+- **1971A**
+- **1999A**
+- **2008C**
+- **2037A**
+- **2204E**
