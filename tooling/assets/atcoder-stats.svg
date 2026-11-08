@@ -18,7 +18,7 @@
 
     <line x1="176" y1="60" x2="176" y2="150" stroke="#30363d"/>
 
-    <text x="200" y="86" class="label">Global Rank</text><text x="476" y="86" text-anchor="end" class="value">#27145</text>
+    <text x="200" y="86" class="label">Global Rank</text><text x="476" y="86" text-anchor="end" class="value">#27155</text>
     <text x="200" y="112" class="label">Highest Rating</text><text x="476" y="112" text-anchor="end" class="value">659 (7 Kyu)</text>
     <text x="200" y="138" class="label">Rated Matches</text><text x="476" y="138" text-anchor="end" class="value">34</text>
     <text x="200" y="164" class="label">Last Competed</text><text x="476" y="164" text-anchor="end" class="value">2026/10/17</text>
